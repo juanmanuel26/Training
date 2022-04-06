@@ -1,0 +1,1 @@
+Voy a hacer un proceso de automatización web, un robot que me pida los medicamentos en sura, usaré las librerias de selenium y time, por cuestiones de tiempo no pude agregarle una interfaz gráfica y tampoco pude completar, pero optimizaré el proceso y el código
