@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 
 
-driver = webdriver.Edge(executable_path = r'C:\Users\Natyy\OneDrive\Escritorio\estudiantes\msedgedriver.exe')
+driver = webdriver.Edge(executable_path = r'C:\Users\Desktop\files\msedgedriver.exe')
 driver.get("https://www.epssura.com/sitio-medicamentos-poblacion-priorizada")
 
 #encontrar y oprimir el botón de inicio 
